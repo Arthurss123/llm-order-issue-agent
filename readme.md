@@ -13,9 +13,9 @@ O projeto é voltado para plataformas de delivery, SAC, monitoramento de satisfa
 - [4. Instalação](#4-instalação)
 - [5. Uso](#5-uso)
 - [6. Configuração](#6-configuração)
-- [7. Estrutura do Projeto](#9-estrutura-do-projeto)
-- [8. Como Contribuir](#10-como-contribuir)
-- [9. Licença](#11-licença)
+- [7. Estrutura do Projeto](#7-estrutura-do-projeto)
+- [8. Como Contribuir](#8-como-contribuir)
+- [9. Licença](#9-licença)
 
 ---
 
@@ -128,7 +128,7 @@ OPENAI_API_KEY= "chave_api
 
  ```
 
-# 8. Como contribuir com o projeto?
+# 8. Como contribuir
 
 - 1 Realize uma fork do projeto
 
